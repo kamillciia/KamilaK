@@ -1,15 +1,17 @@
-    1  sudo su
-    2  ls -l -a
-    3  ls -la
-    4  pwd
-    5  clear
-    6  cd Desktop
-    7  cd Pulpit
-    8  cd..
-    9  cd
-   10  cd ..
-   11  ls
-   12  cd Pulpit
+Pierwsze kroki z programowaniem
+==============================
+*    1  sudo su
+*    2  ls -l -a
+*    3  ls -la
+*    4  pwd
+*    5  clear
+*    6  cd Desktop
+*    7  cd Pulpit
+*    8  cd..
+*   9  cd
+*   10  cd ..
+*   11  ls
+*   12  cd Pulpit
    13  cd home
    14  cd Home
    15  cd /home/kamila
